@@ -1,0 +1,315 @@
+/* screen - 32 */
+
+#overlay-32 {
+  background-color: transparent;
+  position: absolute;
+}
+#overlay-32 .32 {
+  left: 29.767127990722656px;
+  top: 246.8445529937744px;
+}
+#overlay-32 .container-center-horizontal {
+  justify-content: normal;
+}
+.overlay .x32 {
+  background-color: #00000000;
+}
+.x32 {
+  background-color: transparent;
+  height: 390px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 429px;
+}
+.x32 .ellipse-10-kcVAky {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.x32 .ellipse-11-kcVAky {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.x32 .ellipse-12-kcVAky {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.x32 .ellipse-3-cfrIxP {
+  background-color: var(--twine);
+  border-radius: 5px;
+  height: 10px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x32 .ellipse-4-cfrIxP {
+  background-color: var(--purple-plum);
+  border-radius: 5px;
+  height: 10px;
+  left: 374px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x32 .ellipse-5-cfrIxP {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 101px;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x32 .ellipse-6-cfrIxP {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 19px;
+  left: 205px;
+  position: absolute;
+  top: 362px;
+  width: 19px;
+}
+.x32 .ellipse-7-cfrIxP {
+  background-color: var(--smashed-pumpkin);
+  border-radius: 5px;
+  height: 10px;
+  left: 210px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x32 .ellipse-7-kcVAky {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.x32 .ellipse-8-kcVAky {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.x32 .ellipse-9-kcVAky {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.x32 .group-6-HhWP09 {
+  background-color: transparent;
+  height: 390px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 441px;
+}
+.x32 .group-8-cfrIxP {
+  background-color: transparent;
+  height: 67px;
+  left: 45px;
+  position: absolute;
+  top: 209px;
+  width: 386px;
+}
+.x32 .rectangle-1-cfrIxP {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 390px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 429px;
+}
+.x32 .rectangle-4-cfrIxP {
+  background-color: transparent;
+  height: 8px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 330px;
+  width: 359px;
+}
+.x32 .textlabel-Anwnkx {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 344px;
+  width: 98px;
+}
+.x32 .textlabel-OGhMOD {
+  background-color: transparent;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 344px;
+  width: 98px;
+}
+.x32 .textlabel-Of5h9c {
+  background-color: transparent;
+  height: auto;
+  left: 167px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 344px;
+  width: 98px;
+}
+.x32 .textlabel-Uxs2fJ {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 163px;
+}
+.x32 .textlabel-Wr1G94 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 159px;
+}
+.x32 .textlabel-cfrIxP {
+  background-color: transparent;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: 194px;
+}
+.x32 .textlabel-dvfeFz {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.x32 .textlabel-kcVAky {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.x32 .textlabel-uRG48L {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 138px;
+}
+.x32 .textlabel-xdMqPu {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 151px;
+}
+.x32 .x-Anwnkx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.x32 .x-cfrIxP {
+  background-color: transparent;
+  height: 15px;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 364px;
+  width: 13px;
+}
+.x32 .x1-rose-quartz-cfrIxP {
+  background-color: transparent;
+  height: 212px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 212px;
+}

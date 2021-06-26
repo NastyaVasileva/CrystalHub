@@ -1,0 +1,315 @@
+/* screen - 8 */
+
+#overlay-8 {
+  background-color: transparent;
+  position: absolute;
+}
+#overlay-8 .8 {
+  left: 29.76715850830078px;
+  top: 246.84455108642578px;
+}
+#overlay-8 .container-center-horizontal {
+  justify-content: normal;
+}
+.overlay .x8 {
+  background-color: #00000000;
+}
+.x8 {
+  background-color: transparent;
+  height: 390px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 429px;
+}
+.x8 .ellipse-10-e5T20h {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.x8 .ellipse-11-e5T20h {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.x8 .ellipse-12-e5T20h {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.x8 .ellipse-3-cz0JHO {
+  background-color: var(--eagle);
+  border-radius: 5px;
+  height: 10px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x8 .ellipse-4-cz0JHO {
+  background-color: var(--smashed-pumpkin);
+  border-radius: 5px;
+  height: 10px;
+  left: 374px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x8 .ellipse-5-cz0JHO {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 266px;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x8 .ellipse-6-cz0JHO {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 19px;
+  left: 205px;
+  position: absolute;
+  top: 362px;
+  width: 19px;
+}
+.x8 .ellipse-7-cz0JHO {
+  background-color: var(--twine);
+  border-radius: 5px;
+  height: 10px;
+  left: 210px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x8 .ellipse-7-e5T20h {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.x8 .ellipse-8-e5T20h {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.x8 .ellipse-9-e5T20h {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.x8 .group-6-JDTRvN {
+  background-color: transparent;
+  height: 390px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 441px;
+}
+.x8 .group-8-cz0JHO {
+  background-color: transparent;
+  height: 67px;
+  left: 45px;
+  position: absolute;
+  top: 209px;
+  width: 386px;
+}
+.x8 .rectangle-1-cz0JHO {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 390px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 429px;
+}
+.x8 .rectangle-4-cz0JHO {
+  background-color: transparent;
+  height: 8px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 330px;
+  width: 359px;
+}
+.x8 .textlabel-3bEgmA {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 163px;
+}
+.x8 .textlabel-AAbGq4 {
+  background-color: transparent;
+  height: auto;
+  left: 167px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 344px;
+  width: 98px;
+}
+.x8 .textlabel-SLfpzN {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 344px;
+  width: 98px;
+}
+.x8 .textlabel-Snip9q {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 138px;
+}
+.x8 .textlabel-Wu7Iaj {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 159px;
+}
+.x8 .textlabel-cz0JHO {
+  background-color: transparent;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: 194px;
+}
+.x8 .textlabel-dnnV2R {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 151px;
+}
+.x8 .textlabel-e5T20h {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.x8 .textlabel-jdSquY {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.x8 .textlabel-s9xsOR {
+  background-color: transparent;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 344px;
+  width: 98px;
+}
+.x8 .x-SLfpzN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.x8 .x-cz0JHO {
+  background-color: transparent;
+  height: 15px;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 364px;
+  width: 13px;
+}
+.x8 .x1-rose-quartz-cz0JHO {
+  background-color: transparent;
+  height: 212px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 212px;
+}

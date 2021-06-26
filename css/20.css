@@ -1,0 +1,315 @@
+/* screen - 20 */
+
+#overlay-20 {
+  background-color: transparent;
+  position: absolute;
+}
+#overlay-20 .20 {
+  left: 29.767112731933594px;
+  top: 246.76712799072266px;
+}
+#overlay-20 .container-center-horizontal {
+  justify-content: normal;
+}
+.overlay .x20 {
+  background-color: #00000000;
+}
+.x20 {
+  background-color: transparent;
+  height: 390px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 429px;
+}
+.x20 .ellipse-10-2L6xSL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.x20 .ellipse-11-2L6xSL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.x20 .ellipse-12-2L6xSL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.x20 .ellipse-3-ZBNgZs {
+  background-color: var(--eagle);
+  border-radius: 5px;
+  height: 10px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x20 .ellipse-4-ZBNgZs {
+  background-color: var(--smashed-pumpkin);
+  border-radius: 5px;
+  height: 10px;
+  left: 374px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x20 .ellipse-5-ZBNgZs {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 231px;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x20 .ellipse-6-ZBNgZs {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 19px;
+  left: 205px;
+  position: absolute;
+  top: 362px;
+  width: 19px;
+}
+.x20 .ellipse-7-2L6xSL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.x20 .ellipse-7-ZBNgZs {
+  background-color: var(--twine);
+  border-radius: 5px;
+  height: 10px;
+  left: 210px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x20 .ellipse-8-2L6xSL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.x20 .ellipse-9-2L6xSL {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.x20 .group-6-D8ww37 {
+  background-color: transparent;
+  height: 390px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 441px;
+}
+.x20 .group-8-ZBNgZs {
+  background-color: transparent;
+  height: 67px;
+  left: 45px;
+  position: absolute;
+  top: 209px;
+  width: 386px;
+}
+.x20 .rectangle-1-ZBNgZs {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 390px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 429px;
+}
+.x20 .rectangle-4-ZBNgZs {
+  background-color: transparent;
+  height: 8px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 330px;
+  width: 359px;
+}
+.x20 .textlabel-2L6xSL {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.x20 .textlabel-55xzfI {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 151px;
+}
+.x20 .textlabel-8hKdWS {
+  background-color: transparent;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 344px;
+  width: 98px;
+}
+.x20 .textlabel-BZz1kI {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 159px;
+}
+.x20 .textlabel-BfXOIr {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.x20 .textlabel-DJOtf1 {
+  background-color: transparent;
+  height: auto;
+  left: 167px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 344px;
+  width: 98px;
+}
+.x20 .textlabel-ZBNgZs {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 344px;
+  width: 98px;
+}
+.x20 .textlabel-lk8Z20 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 163px;
+}
+.x20 .textlabel-rMLChR {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 144px;
+}
+.x20 .x-8hKdWS {
+  background-color: transparent;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: 194px;
+}
+.x20 .x-DJOtf1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.x20 .x-ZBNgZs {
+  background-color: transparent;
+  height: 15px;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 364px;
+  width: 13px;
+}
+.x20 .x1-rose-quartz-ZBNgZs {
+  background-color: transparent;
+  height: 212px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 212px;
+}

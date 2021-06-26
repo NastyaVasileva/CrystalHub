@@ -1,0 +1,315 @@
+/* screen - 13 */
+
+#overlay-13 {
+  background-color: transparent;
+  position: absolute;
+}
+#overlay-13 .13 {
+  left: 29.767112731933594px;
+  top: 246.8445587158203px;
+}
+#overlay-13 .container-center-horizontal {
+  justify-content: normal;
+}
+.overlay .x13 {
+  background-color: #00000000;
+}
+.x13 {
+  background-color: transparent;
+  height: 390px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 429px;
+}
+.x13 .ellipse-10-O67iiF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.x13 .ellipse-11-O67iiF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.x13 .ellipse-12-O67iiF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 199px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.x13 .ellipse-3-AwNI59 {
+  background-color: var(--smashed-pumpkin);
+  border-radius: 5px;
+  height: 10px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x13 .ellipse-4-AwNI59 {
+  background-color: var(--shampoo);
+  border-radius: 5px;
+  height: 10px;
+  left: 374px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x13 .ellipse-5-AwNI59 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 139px;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x13 .ellipse-6-AwNI59 {
+  background-color: transparent;
+  border-radius: 9.5px;
+  height: 19px;
+  left: 205px;
+  position: absolute;
+  top: 362px;
+  width: 19px;
+}
+.x13 .ellipse-7-AwNI59 {
+  background-color: var(--purple-plum);
+  border-radius: 5px;
+  height: 10px;
+  left: 210px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 309px;
+  width: 10px;
+}
+.x13 .ellipse-7-O67iiF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.x13 .ellipse-8-O67iiF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 29px;
+  width: 10px;
+}
+.x13 .ellipse-9-O67iiF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 55px;
+  width: 10px;
+}
+.x13 .group-6-gTHCmm {
+  background-color: transparent;
+  height: 390px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 441px;
+}
+.x13 .group-8-AwNI59 {
+  background-color: transparent;
+  height: 67px;
+  left: 45px;
+  position: absolute;
+  top: 209px;
+  width: 386px;
+}
+.x13 .rectangle-1-AwNI59 {
+  background-color: var(--log-cabin);
+  border-radius: 15px;
+  height: 390px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 429px;
+}
+.x13 .rectangle-4-AwNI59 {
+  background-color: transparent;
+  height: 8px;
+  left: 35px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 330px;
+  width: 359px;
+}
+.x13 .textlabel-AwNI59 {
+  background-color: transparent;
+  height: auto;
+  left: 202px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 60px;
+  width: 194px;
+}
+.x13 .textlabel-BTYSFT {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.x13 .textlabel-Es63aP {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 151px;
+}
+.x13 .textlabel-IvEb52 {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 163px;
+}
+.x13 .textlabel-O67iiF {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 155px;
+}
+.x13 .textlabel-U9Y3Im {
+  background-color: transparent;
+  height: auto;
+  left: 167px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 344px;
+  width: 98px;
+}
+.x13 .textlabel-fTU6Lu {
+  background-color: transparent;
+  height: auto;
+  left: 221px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: 138px;
+}
+.x13 .textlabel-j9hdKO {
+  background-color: transparent;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 344px;
+  width: 98px;
+}
+.x13 .textlabel-kd3GiS {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 344px;
+  width: 98px;
+}
+.x13 .textlabel-tLXw6w {
+  background-color: transparent;
+  height: auto;
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 159px;
+}
+.x13 .x-AwNI59 {
+  background-color: transparent;
+  height: 15px;
+  left: 209px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 364px;
+  width: 13px;
+}
+.x13 .x-kd3GiS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 402px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 13px;
+}
+.x13 .x1-rose-quartz-AwNI59 {
+  background-color: transparent;
+  height: 212px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 212px;
+}
